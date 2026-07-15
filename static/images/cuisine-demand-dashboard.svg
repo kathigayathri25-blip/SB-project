@@ -1,0 +1,33 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="24" fill="#f8fafc"/>
+  <rect x="40" y="40" width="1120" height="640" rx="20" fill="white" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="80" y="90" width="220" height="120" rx="16" fill="#eff6ff"/>
+  <text x="100" y="130" font-family="Segoe UI, Arial" font-size="24" fill="#1d4ed8">Italian</text>
+  <text x="100" y="165" font-family="Segoe UI, Arial" font-size="18" fill="#64748b">42% demand</text>
+  <rect x="340" y="90" width="220" height="120" rx="16" fill="#fef3c7"/>
+  <text x="360" y="130" font-family="Segoe UI, Arial" font-size="24" fill="#d97706">Mexican</text>
+  <text x="360" y="165" font-family="Segoe UI, Arial" font-size="18" fill="#64748b">28% demand</text>
+  <rect x="600" y="90" width="220" height="120" rx="16" fill="#ecfccb"/>
+  <text x="620" y="130" font-family="Segoe UI, Arial" font-size="24" fill="#65a30d">Chinese</text>
+  <text x="620" y="165" font-family="Segoe UI, Arial" font-size="18" fill="#64748b">18% demand</text>
+  <rect x="860" y="90" width="220" height="120" rx="16" fill="#fce7f3"/>
+  <text x="880" y="130" font-family="Segoe UI, Arial" font-size="24" fill="#db2777">Indian</text>
+  <text x="880" y="165" font-family="Segoe UI, Arial" font-size="18" fill="#64748b">12% demand</text>
+
+  <rect x="90" y="270" width="1000" height="300" rx="20" fill="#fafafa" stroke="#e2e8f0" stroke-width="2"/>
+  <line x1="140" y1="520" x2="1030" y2="520" stroke="#cbd5e1" stroke-width="2"/>
+  <line x1="140" y1="520" x2="140" y2="320" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="180" y="430" width="70" height="90" rx="8" fill="#3b82f6"/>
+  <rect x="320" y="390" width="70" height="130" rx="8" fill="#10b981"/>
+  <rect x="460" y="350" width="70" height="170" rx="8" fill="#f59e0b"/>
+  <rect x="600" y="400" width="70" height="120" rx="8" fill="#8b5cf6"/>
+  <rect x="740" y="360" width="70" height="160" rx="8" fill="#ec4899"/>
+  <rect x="880" y="310" width="70" height="210" rx="8" fill="#ef4444"/>
+  <text x="180" y="550" font-family="Segoe UI, Arial" font-size="16" fill="#64748b">Mon</text>
+  <text x="320" y="550" font-family="Segoe UI, Arial" font-size="16" fill="#64748b">Tue</text>
+  <text x="460" y="550" font-family="Segoe UI, Arial" font-size="16" fill="#64748b">Wed</text>
+  <text x="600" y="550" font-family="Segoe UI, Arial" font-size="16" fill="#64748b">Thu</text>
+  <text x="740" y="550" font-family="Segoe UI, Arial" font-size="16" fill="#64748b">Fri</text>
+  <text x="880" y="550" font-family="Segoe UI, Arial" font-size="16" fill="#64748b">Sat</text>
+  <text x="780" y="250" font-family="Segoe UI, Arial" font-size="28" font-weight="600" fill="#0f172a">Cuisine Demand Trend</text>
+</svg>
